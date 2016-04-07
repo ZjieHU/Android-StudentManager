@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/example/studentmanager/StudentList.java" />
+        <ignore path="src/com/example/studentmanager/right_connectPeople.java" />
+    </issue>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/example/studentmanager/StudentList.java" />
+        <ignore path="src/com/example/studentmanager/right_connectPeople.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/com/example/studentmanager/StudentList.java" />
+        <ignore path="src/com/example/studentmanager/right_connectPeople.java" />
+    </issue>
+    <issue id="ShowToast">
+        <ignore path="src/com/example/studentmanager/loginPage.java" />
+    </issue>
+</lint>
